@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Banane
+          Hi was geht ab
         </a>
       </header>
     </div>
