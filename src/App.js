@@ -1,6 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 
+const caner = "wilde Änderung von Caner";
+
 function App() {
   return (
     <div className="App">
